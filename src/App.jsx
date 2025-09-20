@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { Routes, Route } from 'react-router';
-import Header from './Components/header';
+import Header from './Components/Header';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import CoinDetailsPage from './pages/CoinDetailsPage';
